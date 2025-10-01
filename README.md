@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Walkthrough](https://i.imgur.com/yourgif.gif)
+![Walkthrough](https://i.imgur.com/pldceWG.gif)
 
 GIF created with **Kap for macOS**.
 
