@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to related resources are on each card component
   - [x] All cards have buttons or links in addition to text
-- [x] The site is responsive for both desktop and mobile formats
-  - [x] Web app is shown in a mobile format
+- [ ] The site is responsive for both desktop and mobile formats
+  - [ ] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
@@ -32,8 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<video src="https://i.imgur.com/fIU4TjT.mp4" width="600" controls>
-</video>
+![Walkthrough](https://i.imgur.com/yourgif.gif)
 
 GIF created with **Kap for macOS**.
 
