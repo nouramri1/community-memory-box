@@ -1,16 +1,59 @@
-# React + Vite
+# Web Development Project 1 - *Community Memory Box*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Nour Amri**
 
-Currently, two official plugins are available:
+This web app: **is a community memory box where past events are displayed in a visual card format with descriptions, dates, links, and images. It’s a way to preserve and share community experiences like trips, workshops, and coding events.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **3** hours spent in total
 
-## React Compiler
+## Required Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The following **required** functionality is completed:
 
-## Expanding the ESLint configuration
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed 
+  - [x] The cards are displayed in an organized format (grid layout)
+  - [x] Each card includes information about the event or resource
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The following **optional** features are implemented:
+
+- [x] Buttons or links to related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
+
+The following **additional** features are implemented:
+
+* [x] Added **images** for each event card to make the memory box more visual and engaging
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<video src="https://i.imgur.com/fIU4TjT.mp4" width="600" controls>
+</video>
+
+GIF created with **Kap for macOS**.
+
+## Notes
+
+Challenges included:
+* Uploading the GIF walkthrough due to file size limits on Imgur
+
+## License
+
+    Copyright 2025 Nour Amri
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
